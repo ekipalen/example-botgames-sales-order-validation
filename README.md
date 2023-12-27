@@ -2,7 +2,7 @@
 
 This example robot completes the Botgames Sales Order Validation challenge at <https://developer.automationanywhere.com/challenges/salesorder-challenge.html>.
 
-The robot uses the [robocorp-playwright](https://robocorp.com/docs/python/robocorp/robocorp-browser) library for browser automation.
+The robot uses the [robocorp-browser](https://robocorp.com/docs/python/robocorp/robocorp-browser) library for browser automation.
 
 For more information, do not forget to checkout the following:
 
